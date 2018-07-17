@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+properties-raw.csv
+UseR2018-maxcovr-talk_cache
+UseR2018-maxcovr-talk_files
+libs
