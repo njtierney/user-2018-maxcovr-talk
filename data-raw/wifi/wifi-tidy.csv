@@ -1,0 +1,243 @@
+wifi_hotspot_name,address,suburb,lat,long,site,btn_both
+Annerley Library Wifi,450 Ipswich Road,Annerley,-27.50942285,153.0333218,Library,TRUE
+Ashgrove Library Wifi,87 Amarina Avenue,Ashgrove,-27.44394629,152.9870981,Library,TRUE
+Brisbane Square Library Wifi,"Brisbane Square, 266 George Street",Brisbane City,-27.47091173,153.0224598,Library,TRUE
+Bulimba Library Wifi,Corner Riding Road & Oxford Street,Balmoral,-27.45203086,153.0628242,Library,TRUE
+Carina Library Wifi,Corner Mayfield Road & Nyrang Street,Carina,-27.49169314,153.0912127,Library,TRUE
+Fairfield Library Wifi,"Fairfield Gardens Shopping Centre, 180 Fairfield Road",Fairfield,-27.50909038,153.0259709,Library,TRUE
+Hamilton Library Wifi,Corner Racecourt Road and Rossiter Parade,Hamilton,-27.43790137,153.0642227,Library,TRUE
+Holland Park Library Wifi,81 Seville Road,Holland Park,-27.52292286,153.0722921,Library,TRUE
+Indooroopilly Library Wifi,"Indrooroopilly Shopping centre, Level 4, 322 Moggill Road",Indooroopilly,-27.49764287,152.9736471,Library,TRUE
+Mt Coot-tha Botanic Gardens Library Wifi,"Administration Building, Brisbane Botanic Gardens (Mt Coot-tha), Mt Coot-tha Road",Mount Coot-tha,-27.47529908,152.9760412,Library,TRUE
+New Farm Library Wifi,135 Sydney Street,New Farm,-27.46736574,153.0495841,Library,TRUE
+QLD_07321001X2,127 Queen St,Brisbane City,-27.46967,153.02515,CBD,TRUE
+QLD_07321010X2,141 Queen St,Brisbane City,-27.46924,153.02579,CBD,TRUE
+QLD_07321014X2,155 Queen St,Brisbane City,-27.46882,153.02657,CBD,TRUE
+QLD_07321017X2,221 ALBERT ST,Brisbane City,-27.469504,153.025176,CBD,TRUE
+QLD_07321116X2,33 Queen St,Brisbane City,-27.47067,153.02387,CBD,TRUE
+QLD_07321117X2,33 Queen St,Brisbane City,-27.47048,153.02392,CBD,TRUE
+QLD_07322112X2,109 Elizabeth St,Brisbane City,-27.470596,153.025824,CBD,TRUE
+QLD_07322116X2,136 Elizabeth St,Brisbane City,-27.470011,153.026413,CBD,TRUE
+QLD_07322117X2,232 Albert St,Brisbane City,-27.469209,153.024791,CBD,TRUE
+QLD_07322119X2,10 Eagle St,Brisbane City,-27.469399,153.030166,CBD,TRUE
+QLD_07322121X2,128 Edward St,Brisbane City,-27.469984,153.028516,CBD,TRUE
+QLD_07322131X2,10 Charlotte St,Brisbane City,-27.47234,153.02498,CBD,TRUE
+QLD_07322136X2,180 Mary St,Brisbane City,-27.470447,153.029261,CBD,TRUE
+QLD_07322138X2,165 Adelaide St,Brisbane City,-27.467763,153.02595,CBD,TRUE
+QLD_07322144X2,179 Ann St,Brisbane City,-27.467221,153.024958,CBD,TRUE
+QLD_07322146X2,280 ADELAIDE ST,Brisbane City,-27.465714,153.028389,CBD,TRUE
+QLD_07322147X2,232 Adelaide St,Brisbane City,-27.46656,153.027263,CBD,TRUE
+QLD_07322148X2,345 Queen St,Brisbane City,-27.46673,153.02909,CBD,TRUE
+QLD_07322150X2,35 Creek St,Brisbane City,-27.467561,153.029193,CBD,TRUE
+QLD_07322165X2,70 Adelaide St,Brisbane City,-27.469385,153.023778,CBD,TRUE
+QLD_07322915X2,15 Adelaide St,Brisbane City,-27.469975,153.023175,CBD,TRUE
+QLD_07322918X2,88 Adelaide St,Brisbane City,-27.46906,153.024087,CBD,TRUE
+QLD_07322920X2,135 Margaret St,Brisbane City,-27.47281561,153.0281487,CBD,TRUE
+QLD_07322921X2,270 ANN ST,Brisbane City,-27.466536,153.02562,CBD,TRUE
+QLD_07322922X2,3 Edward St,Brisbane City,-27.47202,153.0305,Southbank Area,TRUE
+QLD_07322926X2,201 Elizabeth St,Brisbane City,-27.469229,153.027579,CBD,TRUE
+QLD_07322927X2,123 Albert St,Brisbane City,-27.47078,153.02641,CBD,TRUE
+QLD_07322929X2,54 Adelaide St,Brisbane City,-27.469538,153.023588,CBD,TRUE
+QLD_07322948X2,72 QUEEN ST,Brisbane City,-27.4701,153.0239,CBD,TRUE
+QLD_07322952X2,91 Queen St,Brisbane City,-27.4702,153.02444,CBD,TRUE
+QLD_07323600X2,30 HERSCHEL ST NR NORTH QUAY,Brisbane City,-27.467956,153.018788,CBD,TRUE
+QLD_07323602X2,58 Roma St,Brisbane City,-27.46768,153.02212,CBD,TRUE
+QLD_07323604X2,20 Makerston St,Brisbane City,-27.466833,153.018736,Paddington,TRUE
+QLD_07323611X2,96 Albert St,Brisbane City,-27.471699,153.027213,CBD,TRUE
+QLD_07323617X2,35 Turbot St,Brisbane City,-27.46888,153.021202,CBD,TRUE
+QLD_07323619X2,304 George St,Brisbane City,-27.469877,153.022385,CBD,TRUE
+QLD_07325251X2,9 Duncan St,Fortitude Valley,-27.458311,153.033223,Brunswick St & Chinatown,TRUE
+QLD_07325284X2,275 Brunswick St,Fortitude Valley,-27.45774,153.03407,Brunswick St & Chinatown,TRUE
+QLD_07325711X2,256 Wickham St,Fortitude Valley,-27.45688,153.03409,Brunswick St & Chinatown,TRUE
+QLD_07325713X2,230 Brunswick St,Fortitude Valley,-27.456809,153.032926,Brunswick St & Chinatown,TRUE
+QLD_07335802X2,51 Chester St,Fortitude Valley,-27.455837,153.042673,James Street Precinct,TRUE
+QLD_07335809X2,1020 BRUNSWICK ST,New Farm,-27.471089,153.051264,New Farm,TRUE
+QLD_07335815X2,65 James St,Fortitude Valley,-27.45758223,153.0408661,James Street Precinct,TRUE
+QLD_07336704X2,163 Given Tce,Paddington,-27.46228,153.00868,Paddington,TRUE
+QLD_07336800X2,18 Caxton St,Petrie Terrace,-27.464555,153.012713,CBD,TRUE
+QLD_07336926X2,202 Given Tce,Paddington,-27.4618,153.00605,Paddington,TRUE
+QLD_07339716X2,58 Old Cleveland Rd,Greenslopes,-27.498589,153.045962,STO,TRUE
+QLD_07339719X2,303 Logan Rd,Greenslopes,-27.498591,153.0441,STO,TRUE
+QLD_07339721X2,416 Logan Rd,Greenslopes,-27.50078,153.04598,STO,TRUE
+QLD_07339738X2,50 Cleveland St,Greenslopes,-27.500519,153.044625,STO,TRUE
+QLD_07383100X1,344 WICKHAM TCE,Spring Hill,-27.464264,153.019492,ROM,TRUE
+QLD_07383100X2,193 Wickham Tce,Spring Hill,-27.465428,153.02407,CBD,TRUE
+QLD_07383102X2,24 Berry St,Spring Hill,-27.464947,153.023778,CBD,TRUE
+QLD_07383108X2,73 Wickham Tce,Spring Hill,-27.464606,153.026722,CBD,TRUE
+QLD_07383109X2,369 Ann St,Brisbane City,-27.464118,153.029049,CBD,TRUE
+QLD_07383201X2,74 Little Edward St,Spring Hill,-27.461039,153.024367,CBD,TRUE
+QLD_07383202X2,67 Astor Tce,Spring Hill,-27.463507,153.026053,CBD,TRUE
+QLD_07383203X2,1 Astor Tce,Spring Hill,-27.46387,153.024851,CBD,TRUE
+QLD_07383901X2,465 Wickham Tce,Spring Hill,-27.46179,153.02098,CBD,TRUE
+QLD_07383902X2,135 Wickham Tce,Spring Hill,-27.464807,153.025661,CBD,TRUE
+QLD_07383903X2,17 Gregory Tce,Spring Hill,-27.46044,153.01869,CBD,TRUE
+QLD_07383904X2,149 Wickham Tce,Spring Hill,-27.464646,153.025356,CBD,TRUE
+QLD_07384444X2,100 Grey St,South Brisbane,-27.47408,153.018486,Southbank Area,TRUE
+QLD_07384467X2,50 Ernest St,South Brisbane,-27.479379,153.021689,Southbank Area,TRUE
+QLD_07384470X2,121 Merivale St,South Brisbane,-27.481457,153.021087,Southbank Area,TRUE
+QLD_07384608X2,"Grey St, Maritime Museum",NA,-27.48187,153.02538,Southbank Area,TRUE
+QLD_07384612X1,Grey St,South Brisbane,-27.47868477,153.0227853,Southbank Area,TRUE
+QLD_07384714X2,383 Logan Rd,Greenslopes,-27.499823,153.045197,STO,TRUE
+QLD_07385210X2,20 Duncan St,Fortitude Valley,-27.45895629,153.034177,Brunswick St & Chinatown,TRUE
+QLD_07385212X2,390 Brunswick St,Fortitude Valley,-27.45933,153.03634,Brunswick St & Chinatown,TRUE
+QLD_07385214X2,267 Brunswick St,Fortitude Valley,-27.45741,153.03363,Brunswick St & Chinatown,TRUE
+QLD_07385217X2,316 Brunswick St,Fortitude Valley,-27.45774,153.03407,Brunswick St & Chinatown,TRUE
+QLD_07385402X2,39 James St,Fortitude Valley,-27.45689634,153.0400461,James Street Precinct,TRUE
+QLD_CAX104B,Intersection of Caxton St and Petrie Tce,Petrie Terrace,-27.464852,153.013268,Paddington,TRUE
+QLD_CAX105B,47-55 Caxton St (outside Caxton Thai and 7 Nights Convenience Store),Petrie Terrace,-27.464075,153.012389,Paddington,TRUE
+QLD_CAX106A,Intersection of Caxton St and Hale St,Petrie Terrace,-27.463395,153.011378,Paddington,TRUE
+QLD_CAX107A,140 Caxton St,Milton,-27.46291439,153.0099488,Paddington,TRUE
+QLD_CAX108A,Intersection of Caxton St and Dowse St,Paddington,-27.462316,153.008898,Paddington,TRUE
+QLD_CBD001A,Intersection of Albert St and Alice St,Brisbane City,-27.473612,153.028942,CBD,TRUE
+QLD_CBD004A,Intersection of George St and Alice St,Brisbane City,-27.474748,153.027119,CBD,TRUE
+QLD_CBD005B,Intersection of George St and Adelaide St,Brisbane City,-27.470306,153.02278,CBD,TRUE
+QLD_CBD006A,Intersection of Edward  St and Margaret St,Brisbane City,-27.471365,153.030052,CBD,TRUE
+QLD_CBD009A,Intersection of Felix St and Mary St,Brisbane City,-27.470161,153.029606,CBD,TRUE
+QLD_CBD013A,159 William Street,Brisbane City,-27.472409,153.023582,CBD,TRUE
+QLD_CBD017A,Intersection of Alice and William St,Brisbane City,-27.475144,153.026505,CBD,TRUE
+QLD_CBD018A,Intersection of North Quay and Queen St,Brisbane City,-27.471396,153.022694,CBD,TRUE
+QLD_CBD019A,Intersection of North Quay and Adelaide St,Brisbane City,-27.470901,153.022096,CBD,TRUE
+QLD_CBD020A,Intersection of North Quay and Ann St,Brisbane City,-27.470031,153.021108,CBD,TRUE
+QLD_CBD023C,42 Makerston St,Brisbane City,-27.467405,153.017789,CBD,TRUE
+QLD_CBD027A,Intersection of Roma St and Parkland,Brisbane City,-27.467218,153.020932,CBD,TRUE
+QLD_CBD028B,Intersection of Turbot St and Albert St,Brisbane City,-27.467416,153.023131,CBD,TRUE
+QLD_CBD029B,Intersection of Ann St and Roma St,Brisbane City,-27.468296,153.023412,CBD,TRUE
+QLD_CBD031A,Intersection of Charlotte St and Albert St,Brisbane City,-27.471144,153.026854,CBD,TRUE
+QLD_CBD034A,Intersection of Charlotte and Creek St,Brisbane City,-27.468581,153.02993,CBD,TRUE
+QLD_CBD035A,Intersection of Elizabeth St and Creek St,Brisbane City,-27.467901,153.029341,CBD,TRUE
+QLD_CBD036A,Intersection of Elizabeth St and George St,Brisbane City,-27.471761,153.024443,CBD,TRUE
+QLD_CBD042A,Intersection of Ann and George St,Brisbane City,-27.469468,153.021954,CBD,TRUE
+QLD_CBD045A,Intersection of Adelaide St and Creek St,Brisbane City,-27.466392,153.027805,CBD,TRUE
+QLD_CBD046A,Intersection of Creek St and Queen St,Brisbane City,-27.46691,153.028579,CBD,TRUE
+QLD_CBD047B,Intersection of Wharf St and Queen St,Brisbane City,-27.465686,153.030161,CBD,TRUE
+QLD_CBD049A,443 Queen Street,Brisbane City,-27.46488,153.031327,CBD,TRUE
+QLD_CBD050A,80 Eagle Street,Brisbane City,-27.467057,153.029948,CBD,TRUE
+QLD_CBD051A,Intersection of Adelaide St and Queen St,Brisbane City,-27.463745,153.031258,CBD,TRUE
+QLD_CBD053B,Intersection of Adelaide St and Albert St,Brisbane City,-27.468741,153.024521,CBD,TRUE
+QLD_CBD054A,Intersection of Adelaide St and Wharf St,Brisbane City,-27.464883,153.029411,CBD,TRUE
+QLD_CBD058A,256 Ann Street (Central Station Exit),Brisbane City,-27.466202,153.026353,CBD,TRUE
+QLD_CBD059A,Intersection of Ann St and Creek St,Brisbane City,-27.465544,153.026988,CBD,TRUE
+QLD_CBD063A,Intersection of Turbot St and Edward St,Brisbane City,-27.466043,153.024893,CBD,TRUE
+QLD_CBD065A,Intersection of Turbot St and Wharf St,Brisbane City,-27.463729,153.028235,CBD,TRUE
+QLD_CBD068A,208 Boundary Street,Spring Hill,-27.46176496,153.0299777,CBD,TRUE
+QLD_CBD069A,70 Wickham St,Fortitude Valley,-27.46171055,153.031091,CBD,TRUE
+QLD_CBD072A,211 Adelaide St,Brisbane City,-27.466884,153.027173,CBD,TRUE
+QLD_CBD074B,Intersection of George St and Queen St,Brisbane City,-27.471017,153.023694,CBD,TRUE
+QLD_CBD076A,Intersection of George St and Tank St,Brisbane City,-27.467975,153.02074,CBD,TRUE
+QLD_CBD077A,Intersection of George St and Herchel St,Brisbane City,-27.467302,153.019817,CBD,TRUE
+QLD_CBD143A,City Botanic Gardens,Brisbane City,-27.475228,153.028856,Wifi In Parks,TRUE
+QLD_CBD157A,King George Square,Brisbane City,-27.468269,153.024276,Wifi In Parks,TRUE
+QLD_CBD158A,Post Office Square,Brisbane City,-27.467459,153.027402,Wifi In Parks,TRUE
+QLD_CBD159A,King Edward Park Jacobs Ladder,Brisbane City,-27.465809,153.023932,Wifi In Parks,TRUE
+QLD_CBD161A,Intersection of Albert and Mary St,Brisbane City,-27.471962,153.027597,CBD,TRUE
+QLD_CBD169A,Intersection of Herschel  St and North Quay,Brisbane City,-27.468291,153.018609,CBD,TRUE
+QLD_CBD183A,Intersection of Edward St and Charlotte St,Brisbane City,-27.469878,153.0283,CBD,TRUE
+QLD_CBD184A,Intersection of Ann St and Edward St,Brisbane City,-27.466817,153.025294,CBD,TRUE
+QLD_CBD185A,Intersection of Mary St and George St,Brisbane City,-27.473275,153.025901,CBD,TRUE
+QLD_CBD186A,Intersection of Margaret St and George St,Brisbane City,-27.473993,153.026649,CBD,TRUE
+QLD_CBD224A,71 Eagle St - Riparian Plaza,Brisbane City,-27.468136,153.030957,CBD,TRUE
+QLD_CBD240A,Victoria Bridge - CBD side,Brisbane City,-27.471764,153.022499,Victoria Bridge,TRUE
+QLD_CHI080A,Intersection of Brunswick St and Ann St,Fortitude Valley,-27.458385,153.035003,Brunswick St & Chinatown,TRUE
+QLD_CHI081A,Intersection of Ann and Warner St,Fortitude Valley,-27.457697,153.035644,Brunswick St & Chinatown,TRUE
+QLD_CHI082A,25 Warner St,Fortitude Valley,-27.457253,153.035064,Brunswick St & Chinatown,TRUE
+QLD_CHI220A,678-694 Ann St,Fortitude Valley,-27.457893,153.035017,Fortitude Valley,TRUE
+QLD_CHI221A,7 Winn St,Fortitude Valley,-27.457846,153.036124,Fortitude Valley,TRUE
+QLD_JAM113A,27 Doggett St,Fortitude Valley,-27.455397,153.04202,James Street Precinct,TRUE
+QLD_JAM114A,19 Chester St,Fortitude Valley,-27.454684,153.041277,James Street Precinct,TRUE
+QLD_JAM115A,9 Chester St,Newstead,-27.454173,153.040675,James Street Precinct,TRUE
+QLD_JAM116A,1000 Ann St,Fortitude Valley,-27.453484,153.03985,James Street Precinct,TRUE
+QLD_JAM117B,Intersection of Ann St and Wandoo St,Fortitude Valley,-27.45456,153.038786,James Street Precinct,TRUE
+QLD_JAM118A,9 Wandoo St,Fortitude Valley,-27.455171,153.039583,James Street Precinct,TRUE
+QLD_JAM119A,52 Wandoo St,Fortitude Valley,-27.456413,153.041379,James Street Precinct,TRUE
+QLD_JAM120A,49 James St,Fortitude Valley,-27.45712,153.040317,James Street Precinct,TRUE
+QLD_JAM121B,15 James St,Fortitude Valley,-27.456054,153.038923,James Street Precinct,TRUE
+QLD_JAM122A,Intersection of Ann St and East St,Fortitude Valley,-27.455461,153.037878,James Street Precinct,TRUE
+QLD_JAM131A,162 Arthur St,Fortitude Valley,-27.457795,153.040973,James Street Precinct,TRUE
+QLD_JAM132A,22 Wandoo St,Fortitude Valley,-27.455498,153.04018,James Street Precinct,TRUE
+QLD_JAM133A,104 MacLachlan St,Fortitude Valley,-27.456378,153.03859,James Street Precinct,TRUE
+QLD_JAM134A,849 Ann St,Fortitude Valley,-27.455891,153.037676,James Street Precinct,TRUE
+QLD_JAM231A,James St Precinct,Fortitude Valley,-27.45555,153.039581,James Street Precinct,TRUE
+QLD_JAM232A,James St Precinct,Fortitude Valley,-27.45584023,153.0394588,James Street Precinct,TRUE
+QLD_JAM233A,James St Precinct,Fortitude Valley,-27.456335,153.038874,James Street Precinct,TRUE
+QLD_JAM234A,James St Precinct,Fortitude Valley,-27.456917,153.039038,James Street Precinct,TRUE
+QLD_JAM235A,James St Precinct,Fortitude Valley,-27.456435,153.039698,James Street Precinct,TRUE
+QLD_JAM236A,James St Precinct,Fortitude Valley,-27.456487,153.040001,James Street Precinct,TRUE
+QLD_JAM237A,James St Precinct,Fortitude Valley,-27.456429,153.03913,James Street Precinct,TRUE
+QLD_JAM238A,James St Precinct,Fortitude Valley,-27.456159,153.039584,James Street Precinct,TRUE
+QLD_KPT247A,Intersection of River Tce and Main St,Kangaroo Point,-27.476536,153.035512,Kangaroo Point,TRUE
+QLD_KPT248A,3B River Tce,Kangaroo Point,-27.476832,153.034995,Kangaroo Point,TRUE
+QLD_KPT249A,1 Leopard St,Kangaroo Point,-27.481907,153.032737,Kangaroo Point,TRUE
+QLD_KPT250A,461C Main St,Kangaroo Point,-27.475801,153.035146,Kangaroo Point,TRUE
+QLD_KPT251A,461 Main St,Kangaroo Point,-27.475389,153.035138,Kangaroo Point,TRUE
+QLD_KPT252A,200 River Tce,Kangaroo Point,-27.480838,153.033388,Kangaroo Point,TRUE
+QLD_PAD109A,169 Given Terrace,Paddington,-27.462074,153.007561,Paddington,TRUE
+QLD_PAD110A,235 Given Terrace,Paddington,-27.461339,153.005131,Paddington,TRUE
+QLD_PAD111A,252 Given Terrace,Paddington,-27.461037,153.004061,Paddington,TRUE
+QLD_PAD112A,Intersection of Given Tce and Latrobe Tce,Paddington,-27.460389,153.002524,Paddington,TRUE
+QLD_PRK142A,Gregory Park (Baroona Rd and Murruba St),Milton,-27.466169,152.999193,Wifi In Parks,TRUE
+QLD_PRK144A,Brisbane Botanic Gardens - Japanese Garden (Mt Coot-tha Rd),Mount Coot-tha,-27.47717,152.977058,Wifi In Parks,TRUE
+QLD_PRK146A,New Farm Park (Brunswick St),New Farm,-27.470268,153.052223,Wifi In Parks,TRUE
+QLD_PRK148A,Guyatt Park (End of Hiron St),St Lucia,-27.492785,153.001571,Wifi In Parks,TRUE
+QLD_PRK154A,Glindemann Park (Logan Rd),Holland Park West,-27.52656,153.069546,Wifi In Parks,TRUE
+QLD_PRK156A,Orleigh Park (Hill End Terrace / Orleigh St),West End,-27.48995,153.00326,Wifi In Parks,TRUE
+QLD_ROM123A,Roma Parklands 1 (3 Parkland Blvd),Brisbane City,-27.463469,153.017472,ROM,TRUE
+QLD_ROM124A,Roma Parklands 2,Brisbane City,-27.4633,153.01802,ROM,TRUE
+QLD_ROM125A,Roma Parklands 3,Brisbane City,-27.463047,153.018785,ROM,TRUE
+QLD_ROM126A,Roma Parklands 4,Brisbane City,-27.463827,153.01895,ROM,TRUE
+QLD_ROM127A,Roma Parklands 5,Brisbane City,-27.463671,153.018384,ROM,TRUE
+QLD_ROM128A,Roma Parklands 6,Brisbane City,-27.462581,153.017153,ROM,TRUE
+QLD_ROM129A,Roma Parklands 7,Brisbane City,-27.462292,153.019397,ROM,TRUE
+QLD_ROM130A,Roma Parklands 8,Brisbane City,-27.46282,153.020052,ROM,TRUE
+QLD_SOU084A,Intersection of Grey St and Vulture St,South Brisbane,-27.482493,153.024347,Southbank Area,TRUE
+QLD_SOU085A,Intersection of Grey St and Tribune St,South Brisbane,-27.480803,153.022952,Southbank Area,TRUE
+QLD_SOU086B,176-186 Grey St,South Brisbane,-27.479731,153.02235,Southbank Area,TRUE
+QLD_SOU087A,Intersection of Grey St and Glenelg St,South Brisbane,-27.477563,153.020965,Southbank Area,TRUE
+QLD_SOU088A,Intersection of Grey St and Russell St,South Brisbane,-27.475645,153.019612,Southbank Area,TRUE
+QLD_SOU089A,59 Grey St,South Brisbane,-27.472366,153.01741,Southbank Area,TRUE
+QLD_SOU090A,Southbank Public Area near FDB12,South Brisbane,-27.478988,153.024073,Southbank Area,TRUE
+QLD_SOU091A,Southbank Public Area near FDB5B,South Brisbane,-27.480811,153.02447,Southbank Area,TRUE
+QLD_SOU092A,Southbank Public Area near FDB10,South Brisbane,-27.479065,153.023651,Southbank Area,TRUE
+QLD_SOU093A,Southbank Riverside Green Playground,South Brisbane,-27.4772,153.02251,Southbank Area,TRUE
+QLD_SOU094A,Southbank Little Stanley St,South Brisbane,-27.477563,153.021486,Southbank Existing BCC Wifi,TRUE
+QLD_SOU095A,Southbank Pir A (FDB31),South Brisbane,-27.47487523,153.0211448,Southbank Area,TRUE
+QLD_SOU096A,Southbank Cultural Forecourt,South Brisbane,-27.47392,153.02037,Southbank Area,TRUE
+QLD_SOU097A,Southbank Victoria Bridge,South Brisbane,-27.473002,153.019642,Southbank Area,TRUE
+QLD_SOU102A,Southbank Public Area near FDB16 (SB01 - Southbank Overview),South Brisbane,-27.478261,153.023812,Southbank Area,TRUE
+QLD_SOU103A,South Bank 2 Ferry Terminal,South Brisbane,-27.476138,153.022057,Southbank Area,TRUE
+QLD_SOU170A,SB01 - Southbank Overview (Inside Arbour Walk),South Brisbane,-27.477924,153.02201,Southbank Area,TRUE
+QLD_SOU171A,Southbank Boardwalk next to green lawn and close to Southbank Pier 3,South Brisbane,-27.48032751,153.0248507,Southbank Area,TRUE
+QLD_SOU172A,Southbank Near Maritime Museum,South Brisbane,-27.48127,153.02583,Southbank New BCC Wifi,TRUE
+QLD_SOU173A,SB01 - Southbank Overview (FDB7),South Brisbane,-27.480221,153.024602,Southbank Existing BCC Wifi,TRUE
+QLD_SOU174A,SB01 - Southbank Overview (FDB11),South Brisbane,-27.47968,153.02429,Southbank Existing BCC Wifi,TRUE
+QLD_SOU175A,SB01 - Southbank Overview (Little Stanley St 1),South Brisbane,-27.48033679,153.023393,Southbank Existing BCC Wifi,TRUE
+QLD_SOU176A,SB01 - Southbank Overview (Little Stanley St 2),South Brisbane,-27.47956047,153.0228867,Southbank Existing BCC Wifi,TRUE
+QLD_SOU177A,SB01 - Southbank Overview (Little Stanley St 3),South Brisbane,-27.47907301,153.0225627,Southbank Existing BCC Wifi,TRUE
+QLD_SOU178A,SB01 - Southbank Overview (Little Stanley St 4),South Brisbane,-27.477285,153.021714,Southbank Existing BCC Wifi,TRUE
+QLD_SOU179A,SB01 - Southbank Overview (FDB 33) and SB08 FDBs,South Brisbane,-27.474908,153.020361,Southbank Existing BCC Wifi,TRUE
+QLD_SOU180A,SB01 - Southbank Overview (FDB 34) and SB08 FDBs,South Brisbane,-27.47423,153.019912,Southbank Existing BCC Wifi,TRUE
+QLD_SOU181A,SB01 - Southbank Overview (Rain Bank) and SB07 Rain Bank,South Brisbane,-27.47594,153.02145,Southbank Existing BCC Wifi,TRUE
+QLD_SOU182A,SB01 - Southbank Overview (Piazza) and SB6 Piazza,South Brisbane,-27.476764,153.021349,Southbank Existing BCC Wifi,TRUE
+QLD_SOU206A,SB01 - Southbank Overview (Piazza) and SB6 Piazza,South Brisbane,-27.476916,153.02173,Southbank Existing BCC Wifi,TRUE
+QLD_SOU207A,SB01 - Southbank Overview (Riverside Restaurant),South Brisbane,-27.480689,153.024839,Southbank Existing BCC Wifi,TRUE
+QLD_SOU208A,SB01 - Southbank Overview (Gazebo on small island),South Brisbane,-27.47787,153.02301,Southbank Area,TRUE
+QLD_SOU209A,SB01 - Southbank Overview (Southbank House),South Brisbane,-27.478652,153.022463,Southbank Existing BCC Wifi,TRUE
+QLD_SOU210A,SB01 - Southbank Overview (Southbank House),South Brisbane,-27.478455,153.022653,Southbank Existing BCC Wifi,TRUE
+QLD_SOU211A,SB01 - Southbank Overview (Allgas Building),South Brisbane,-27.478869,153.022931,Southbank Existing BCC Wifi,TRUE
+QLD_SOU215A,SB01 - Southbank Overview (River Quay Restaurants),South Brisbane,-27.480821,153.025031,Southbank Existing BCC Wifi,TRUE
+QLD_SOU216A,SB01 - Southbank Overview (River Quay Restaurants),South Brisbane,-27.480888,153.025569,Southbank Existing BCC Wifi,TRUE
+QLD_SOU217A,SB01 - Southbank Overview (Piazza) and SB6 Piazza,South Brisbane,-27.477252,153.02146,Southbank New BCC Wifi,TRUE
+QLD_SOU218A,SB01 - Southbank Overview (Piazza) and SB6 Piazza,South Brisbane,-27.477116,153.021364,Southbank New BCC Wifi,TRUE
+QLD_SOU219A,SB01 - Southbank Overview (Piazza) and SB6 Piazza,South Brisbane,-27.476976,153.021271,Southbank New BCC Wifi,TRUE
+QLD_SOU239A,Victoria Bridge,South Brisbane,-27.473077,153.01988,Victoria Bridge,TRUE
+QLD_STO262A,286 Logan Rd,Greenslopes,-27.49824,153.043585,Stones Corner,TRUE
+QLD_STO263A,2 Old Cleveland Rd,Greenslopes,-27.498527,153.04471,Stones Corner,TRUE
+QLD_STO264A,346-356 Logan Rd,Greenslopes,-27.499088,153.044929,Stones Corner,TRUE
+QLD_STO265A,405-407 Logan Rd,Greenslopes,-27.50021,153.045418,Stones Corner,TRUE
+QLD_STO266A,6 Jeavons Lane,Greenslopes,-27.500852,153.045479,Stones Corner,TRUE
+QLD_STO267A,433 Logan Rd,Greenslopes,-27.5013,153.04635,Stones Corner,TRUE
+QLD_STO268A,11 Cleveland St,Greenslopes,-27.49869,153.043251,Stones Corner,TRUE
+QLD_SLU287A,228-234 Hawken Drive,St Lucia,-27.502172,153.006037,St Lucia,TRUE
+QLD_07387012X2,225 Hawken Drive,St Lucia,-27.502179,153.006513,St Lucia,TRUE
+Stones Corner Library Wifi,280 Logan Road,Greenslopes,-27.49803575,153.043655,Library,TRUE
+Toowong Library Wifi,"Toowon Village Shopping Centre, Sherwood Road",Toowong,-27.48505116,152.9925091,Library,TRUE
+West End Library Wifi,178 - 180 Boundary Street,West End,-27.48245078,153.0120763,Library,TRUE
