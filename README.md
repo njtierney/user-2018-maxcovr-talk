@@ -10,6 +10,8 @@ Twitter: [@nj\_tierney](https://twitter.com/nj_tierney)
 
 GitHub: [@njtierney](https://github.com/njtierney)
 
+maxcovr R package: [maxcovr](https://github.com/njtierney/maxcovr)
+
 ### Abstract
 
 > Want better wifi at the office? Improved access to healthcare? The

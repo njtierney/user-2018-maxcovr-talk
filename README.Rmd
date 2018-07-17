@@ -19,6 +19,8 @@ Twitter: [\@nj_tierney](https://twitter.com/nj_tierney)
 
 GitHub: [\@njtierney](https://github.com/njtierney)
 
+maxcovr R package: [maxcovr](https://github.com/njtierney/maxcovr)
+
 ### Abstract
 
 >  Want better wifi at the office? Improved access to healthcare? The maximal covering location problem (MCLP) can help! The MCLP finds optimal locations of facilities to improve their coverage on a set of targets. This means better placed wifi routers and healthcare facilities. Although the MCLP was described in the 1970s, it can be daunting to actually implement as you need to know how to:
