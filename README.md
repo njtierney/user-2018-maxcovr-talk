@@ -3,11 +3,14 @@
 
 # Find the best locations for facilities using `maxcovr`
 
-A talk presented by [Nick Tierney](), presented at [UseR\!2018]()
-Twitter: \[@nj\_tierney\](<https://twitter.com/nj_tierney>) GitHub:
-\[@njtierney\](<https://github.com/njtierney>)
+A talk presented by [Nick Tierney](http://www.njtierney.com/), presented
+at [UseR\!2018](https://user2018.r-project.org/)
 
-**Abstract**
+Twitter: [@nj\_tierney](https://twitter.com/nj_tierney)
+
+GitHub: [@njtierney](https://github.com/njtierney)
+
+### Abstract
 
 > Want better wifi at the office? Improved access to healthcare? The
 > maximal covering location problem (MCLP) can help\! The MCLP finds
@@ -17,12 +20,9 @@ Twitter: \[@nj\_tierney\](<https://twitter.com/nj_tierney>) GitHub:
 > daunting to actually implement as you need to know how to:
 
 > 1)  Formulate an optimisation problem
-
 > 2)  Make it talk to a solver engine
-
 > 3)  Get the data into the appropriate format for the solver to
 >     recognise
-
 > 4)  Translate the model output into a usable format
 
 > It is challenging, particularly if you are not familiar with
@@ -37,14 +37,25 @@ Twitter: \[@nj\_tierney\](<https://twitter.com/nj_tierney>) GitHub:
 
 # Slides
 
+The source code for the slides can be found in
+`UseR2018-maxcovr-talk.Rmd`, and you can view the slides as they were
+presented as UseR,
+[here](https://talks.updog.co/user2018-maxcovr/user2018-maxcovr-talk.html#1).
+
+# Video
+
+Thanks to the [R Consortium](https://www.r-consortium.org/), you can
+view the video of my talk
+[here](https://www.youtube.com/watch?v=sA8ItKmdwjM&t=2s).
+
 # Data
 
 This talk drew upon publicly available datasets from the Brisbane
 government - from <https://www.data.brisbane.qld.gov.au/>. The datasets
 were initially suggested by friendly folks from the Stories with Data
-Slack channel,
+Slack channel, Alex Sadleir, and Dave A.
 
-The data comes from the following repositories
+The data comes from the following repositories:
 
   - [Property Address
     Locations](https://www.data.brisbane.qld.gov.au/data/dataset/property-address-data)
@@ -55,4 +66,7 @@ The data comes from the following repositories
   - [Public art
     locations](https://www.data.brisbane.qld.gov.au/data/dataset/public-art/resource/3c972b8e-9340-4b6d-8c7b-2ed988aa3343?view_id=ee54f886-717b-4cc1-b012-944d48ac597e)
 
-Each of the datasets can be found in the [`data-raw/`]() folder
+Each of the datasets, along with code for cleaning them up for their use
+in the talk, and a README description of the data can be found in the
+[`data-raw/`](https://github.com/njtierney/user-2018-maxcovr-talk/tree/master/data-raw)
+folder
